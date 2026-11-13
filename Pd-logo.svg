@@ -1,0 +1,12 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" rx="35" fill="#050505"/>
+    <text x="200" y="210" text-anchor="middle"
+        font-family="Georgia,serif" font-size="190"
+            font-weight="bold" fill="#D4AF37">PD</text>
+              <path d="M85 250 H315" stroke="#D4AF37" stroke-width="3"/>
+                <text x="200" y="295" text-anchor="middle"
+                    font-family="Arial" font-size="27"
+                        letter-spacing="5" fill="#D4AF37">DIGITAL STUDIO</text>
+                        </svg>
+                        
